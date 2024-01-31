@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @victorcasi
-- 👀 I’m interested in Data Science and Data Analytics.
+- 👋 Hi, I’m @victorcasi. Data Scientist at Renault.
+- 👀 I’m interested in Data Science, AI and Data Analytics.
 - 🌱 Here you can find some of my projects and courses i am taking
 - 📫 How to reach me: https://www.linkedin.com/in/victorcasi/
 
