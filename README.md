@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @victorcasi. Data Scientist at Renault.
+- 👋 Hi, I’m @victorcasi. Business and Data Analyst at Nubank.
 - 👀 I’m interested in Data Science, AI and Data Analytics.
-- 🌱 Here you can find some of my projects and courses i am taking
+- 🌱 Here you can find some of my projects and courses I am taking
 - 📫 How to reach me: https://www.linkedin.com/in/victorcasi/
 
 <!---
